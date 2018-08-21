@@ -62,7 +62,7 @@
 }
 
 .adicionarRole:hover{
-    background-color: #ff0088b4;
+    background-color: #ff0086;
     cursor: pointer;
 }
 
@@ -114,7 +114,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: aqua;
+    background-color: #13df6f;
     border-radius: 50%;
     margin: 5px;
 }
@@ -132,7 +132,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: aqua;
+    background-color: #13df6f;
     border-radius: 50%;
     margin: 5px;
 }
@@ -168,7 +168,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #ff0088b4;
+    background-color: #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
@@ -186,7 +186,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
@@ -204,7 +204,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
@@ -212,7 +212,7 @@ h2{
 .imgAmigo6{
     width: 40px;
     height: 40px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 2px;
 }
@@ -223,7 +223,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
@@ -237,6 +237,7 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgba(0, 0, 0, 0.329);
 }
 
 .interesses1, .interesses2, .interesses3, .interesses4, .interesses5, .interesses6{
@@ -245,12 +246,12 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
 
-.icone1, icone2, icone3, icone4, icone5, icone6{
+.icone1, .icone2, .icone3, .icone4, .icone5, .icone6{
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -263,7 +264,7 @@ h2{
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color:  #ff0088b4;
+    background-color:  #ff0086;
     border-radius: 50%;
     margin: 5px;
 }
@@ -285,7 +286,7 @@ h3{
 }
 
 h3:hover{
-    color:  #ff0088b4;
+    color:  #ff0086;
     cursor: pointer;
 }
 
@@ -312,7 +313,7 @@ h3:hover{
 }
 
 .eventosAnteriores p:hover{
-    color:  #ff0088b4;
+    color:  #ff0086;
 }
 
 @media (min-width: 400px){
@@ -529,7 +530,7 @@ h3:hover{
     h2{
         font-size: 12pt;
         font-weight: bold;
-        margin: 30px;
+        margin: 40px 0 10px 0;
     }
     h3{
         font-size: 15pt;
